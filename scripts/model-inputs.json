@@ -1,0 +1,581 @@
+{
+  "mirrorCommit": "fd527e6f4daf732fd814314d9257df5877b844bc",
+  "objects": [
+    {
+      "id": "FJ2565",
+      "file": "FJ2565.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2565_BP23696_FMA14542_Appendix.obj",
+      "sha256": "6b08aeecda3239f4224f92b8ceba642625f6463dc5a482fd886cacbb1fbfce18",
+      "bytes": 26743,
+      "mirrorPath": "meshes/FJ2565_BP23696_FMA14542_Appendix.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2565_BP23696_FMA14542_Appendix.obj"
+    },
+    {
+      "id": "FJ2566",
+      "file": "FJ2566.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2566_BP22851_FMA14545_Ascending%20colon.obj",
+      "sha256": "0724a484ff53f644d5c0104edcf23823ac723fd9d03ef7cea08678ff7e53c605",
+      "bytes": 214014,
+      "mirrorPath": "meshes/FJ2566_BP22851_FMA14545_Ascending colon.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2566_BP22851_FMA14545_Ascending%20colon.obj"
+    },
+    {
+      "id": "FJ2567",
+      "file": "FJ2567.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2567_BP22849_FMA14547_Descending%20colon.obj",
+      "sha256": "c0fc65886d1e215e2b123c27d42fca1f49ef31605368bc38edde5d499169ce53",
+      "bytes": 365225,
+      "mirrorPath": "meshes/FJ2567_BP22849_FMA14547_Descending colon.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2567_BP22849_FMA14547_Descending%20colon.obj"
+    },
+    {
+      "id": "FJ2568",
+      "file": "FJ2568.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2568_BP23047_FMA15044_Taenia%20libera.obj",
+      "sha256": "f4bba073a86a0627e94c441500f0cf4d17ecde1b0fefb54c66fa29864a06706b",
+      "bytes": 1480351,
+      "mirrorPath": "meshes/FJ2568_BP23047_FMA15044_Taenia libera.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2568_BP23047_FMA15044_Taenia%20libera.obj"
+    },
+    {
+      "id": "FJ2569",
+      "file": "FJ2569.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2569_BP24038_FMA15042_Taenia%20mesocolica.obj",
+      "sha256": "e341c4919119e44207b19b54042c837d777964304e883bf3c838c9d30a061846",
+      "bytes": 1385745,
+      "mirrorPath": "meshes/FJ2569_BP24038_FMA15042_Taenia mesocolica.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2569_BP24038_FMA15042_Taenia%20mesocolica.obj"
+    },
+    {
+      "id": "FJ2570",
+      "file": "FJ2570.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2570_BP22836_FMA15043_Taenia%20omentalis.obj",
+      "sha256": "e42a87ee02df981afde965a1f2a381713b2fb45a12873ff9423fc1c59e575cbe",
+      "bytes": 1319260,
+      "mirrorPath": "meshes/FJ2570_BP22836_FMA15043_Taenia omentalis.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2570_BP22836_FMA15043_Taenia%20omentalis.obj"
+    },
+    {
+      "id": "FJ2571",
+      "file": "FJ2571.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2571_BP21902_FMA14544_Rectum.obj",
+      "sha256": "a2b702d4603176010fc1a6201b9f1910ca7d68ec8db76e33bcbc9c55edb5782b",
+      "bytes": 129351,
+      "mirrorPath": "meshes/FJ2571_BP21902_FMA14544_Rectum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2571_BP21902_FMA14544_Rectum.obj"
+    },
+    {
+      "id": "FJ2572",
+      "file": "FJ2572.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2572_BP23966_FMA14546_Transverse%20colon.obj",
+      "sha256": "20d64fe3057546ef1ab86149455b93cae3740424798962ae99fc44211a604922",
+      "bytes": 225187,
+      "mirrorPath": "meshes/FJ2572_BP23966_FMA14546_Transverse colon.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2572_BP23966_FMA14546_Transverse%20colon.obj"
+    },
+    {
+      "id": "FJ2573",
+      "file": "FJ2573.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2573_BP24104_FMA7206_Duodenum.obj",
+      "sha256": "4e864f74d938eca6d74a185539429c1d4bbb80a8b2add7f3662b34e406c85440",
+      "bytes": 112313,
+      "mirrorPath": "meshes/FJ2573_BP24104_FMA7206_Duodenum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2573_BP24104_FMA7206_Duodenum.obj"
+    },
+    {
+      "id": "FJ2574",
+      "file": "FJ2574.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2574_BP21558_FMA14964_Proximal%20part%20of%20ileum.obj",
+      "sha256": "bd0866f49702a9701248bb239f548b0f57c8e0756dc801c76c12cee0ce992165",
+      "bytes": 22149,
+      "mirrorPath": "meshes/FJ2574_BP21558_FMA14964_Proximal part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2574_BP21558_FMA14964_Proximal%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2575",
+      "file": "FJ2575.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2575_BP21558_FMA14964_Proximal%20part%20of%20ileum.obj",
+      "sha256": "0b8f9d20cb8db1361f3ca18ac2fda58e14f933dab61ac6218d48f2ecf18aeec3",
+      "bytes": 15734,
+      "mirrorPath": "meshes/FJ2575_BP21558_FMA14964_Proximal part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2575_BP21558_FMA14964_Proximal%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2576",
+      "file": "FJ2576.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2576_BP22937_FMA14965_Middle%20part%20of%20ileum.obj",
+      "sha256": "2ce78308407ac9793d1f0a681711d3ff1802253ab60867beb39eb3a480875b5b",
+      "bytes": 9791,
+      "mirrorPath": "meshes/FJ2576_BP22937_FMA14965_Middle part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2576_BP22937_FMA14965_Middle%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2577",
+      "file": "FJ2577.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2577_BP22937_FMA14965_Middle%20part%20of%20ileum.obj",
+      "sha256": "c236c4293685fa579d3600ecdf54888443d74c00618567123469a9f741166e8f",
+      "bytes": 18646,
+      "mirrorPath": "meshes/FJ2577_BP22937_FMA14965_Middle part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2577_BP22937_FMA14965_Middle%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2578",
+      "file": "FJ2578.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2578_BP22937_FMA14965_Middle%20part%20of%20ileum.obj",
+      "sha256": "2edf3b911e1f315b7d9deb645c1a0db606de3a4db78aafca1d6eaac68b6c5263",
+      "bytes": 17272,
+      "mirrorPath": "meshes/FJ2578_BP22937_FMA14965_Middle part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2578_BP22937_FMA14965_Middle%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2579",
+      "file": "FJ2579.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2579_BP22937_FMA14965_Middle%20part%20of%20ileum.obj",
+      "sha256": "588739bd8f3719586d0f4c9b36031af990cf260441bd1c1ca045d6fd20cfc4de",
+      "bytes": 16287,
+      "mirrorPath": "meshes/FJ2579_BP22937_FMA14965_Middle part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2579_BP22937_FMA14965_Middle%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2580",
+      "file": "FJ2580.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2580_BP22937_FMA14965_Middle%20part%20of%20ileum.obj",
+      "sha256": "aecae1f3ef51f5dcd867eb3cb8650bf09d48bf07d020fe10715ffecb1c80c75c",
+      "bytes": 19774,
+      "mirrorPath": "meshes/FJ2580_BP22937_FMA14965_Middle part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2580_BP22937_FMA14965_Middle%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2581",
+      "file": "FJ2581.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2581_BP22937_FMA14965_Middle%20part%20of%20ileum.obj",
+      "sha256": "01810189074546a871fbe937eece5801d443cc5b07355a6cfd265354ff1d2435",
+      "bytes": 12055,
+      "mirrorPath": "meshes/FJ2581_BP22937_FMA14965_Middle part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2581_BP22937_FMA14965_Middle%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2582",
+      "file": "FJ2582.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2582_BP22937_FMA14965_Middle%20part%20of%20ileum.obj",
+      "sha256": "5c813771f64e9f867d715b124f7ef145e79ff70ce6df22d678401d5f681edb16",
+      "bytes": 12156,
+      "mirrorPath": "meshes/FJ2582_BP22937_FMA14965_Middle part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2582_BP22937_FMA14965_Middle%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2583",
+      "file": "FJ2583.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2583_BP22937_FMA14965_Middle%20part%20of%20ileum.obj",
+      "sha256": "9823b269382c1fb1d3cce568ca83e4e1a9e734219cc7673ad5226c2b214cd33a",
+      "bytes": 11013,
+      "mirrorPath": "meshes/FJ2583_BP22937_FMA14965_Middle part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2583_BP22937_FMA14965_Middle%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2584",
+      "file": "FJ2584.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2584_BP22937_FMA14965_Middle%20part%20of%20ileum.obj",
+      "sha256": "15b0d0f7cad4d9f15ec3c9983e3f053f27706bc91614f5804e3c2c671819d358",
+      "bytes": 12745,
+      "mirrorPath": "meshes/FJ2584_BP22937_FMA14965_Middle part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2584_BP22937_FMA14965_Middle%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2585",
+      "file": "FJ2585.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2585_BP21558_FMA14964_Proximal%20part%20of%20ileum.obj",
+      "sha256": "4c6d5bbc1696335b3d9370b526ecf45d9ae7913d9cfdbf56eda5431c020033d1",
+      "bytes": 17082,
+      "mirrorPath": "meshes/FJ2585_BP21558_FMA14964_Proximal part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2585_BP21558_FMA14964_Proximal%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2586",
+      "file": "FJ2586.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2586_BP22937_FMA14965_Middle%20part%20of%20ileum.obj",
+      "sha256": "876fb01167eb6603452d7235d9ed79e7f78c6a374f7ddd190188e3dce2be2603",
+      "bytes": 15370,
+      "mirrorPath": "meshes/FJ2586_BP22937_FMA14965_Middle part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2586_BP22937_FMA14965_Middle%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2587",
+      "file": "FJ2587.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2587_BP23004_FMA14966_Distal%20part%20of%20ileum.obj",
+      "sha256": "b206d71913e488fb807c6e038f8ec2fd2d15119a8a1a7268b0e3471b66ba2802",
+      "bytes": 12701,
+      "mirrorPath": "meshes/FJ2587_BP23004_FMA14966_Distal part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2587_BP23004_FMA14966_Distal%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2588",
+      "file": "FJ2588.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2588_BP23004_FMA14966_Distal%20part%20of%20ileum.obj",
+      "sha256": "96a4017bfdcb97dcbee9c3bd894ad41d2f7fcf3ad02a9fb46edf7c42e907e0c4",
+      "bytes": 15324,
+      "mirrorPath": "meshes/FJ2588_BP23004_FMA14966_Distal part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2588_BP23004_FMA14966_Distal%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2589",
+      "file": "FJ2589.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2589_BP23004_FMA14966_Distal%20part%20of%20ileum.obj",
+      "sha256": "81e62be6a3e5ae267d61f06e840d9c12a69cfeea707b76e353114d28ee28b663",
+      "bytes": 18602,
+      "mirrorPath": "meshes/FJ2589_BP23004_FMA14966_Distal part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2589_BP23004_FMA14966_Distal%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2590",
+      "file": "FJ2590.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2590_BP23004_FMA14966_Distal%20part%20of%20ileum.obj",
+      "sha256": "7442195288c12d56c4ad52b032be2c89a439f43c5914b7365b95e8fd2099635a",
+      "bytes": 10287,
+      "mirrorPath": "meshes/FJ2590_BP23004_FMA14966_Distal part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2590_BP23004_FMA14966_Distal%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2591",
+      "file": "FJ2591.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2591_BP23004_FMA14966_Distal%20part%20of%20ileum.obj",
+      "sha256": "f3826032301d2cb0d8fc57b02d7ad445d0e4ab798313b85b3688d50a767a1d5f",
+      "bytes": 12797,
+      "mirrorPath": "meshes/FJ2591_BP23004_FMA14966_Distal part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2591_BP23004_FMA14966_Distal%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2592",
+      "file": "FJ2592.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2592_BP23004_FMA14966_Distal%20part%20of%20ileum.obj",
+      "sha256": "bf9717fbc26bd87e1017f9f854a09751fdcd137c54a695ea2088e23e600a1b1d",
+      "bytes": 13786,
+      "mirrorPath": "meshes/FJ2592_BP23004_FMA14966_Distal part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2592_BP23004_FMA14966_Distal%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2593",
+      "file": "FJ2593.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2593_BP23004_FMA14966_Distal%20part%20of%20ileum.obj",
+      "sha256": "53c1cf29192a3d552550519b616982aab9e4c8c34e5fb64f5e98b60d2b210cac",
+      "bytes": 14802,
+      "mirrorPath": "meshes/FJ2593_BP23004_FMA14966_Distal part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2593_BP23004_FMA14966_Distal%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2594",
+      "file": "FJ2594.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2594_BP23004_FMA14966_Distal%20part%20of%20ileum.obj",
+      "sha256": "f6dd6d4909eb4a14c62c6312bf5a363842aa574c3c65e52526f5f43607347dd1",
+      "bytes": 12328,
+      "mirrorPath": "meshes/FJ2594_BP23004_FMA14966_Distal part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2594_BP23004_FMA14966_Distal%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2595",
+      "file": "FJ2595.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2595_BP23004_FMA14966_Distal%20part%20of%20ileum.obj",
+      "sha256": "939bc15f7c7f0cba4fea081bd23568aaa3b8ceafeca5249e440b1ec0c041bbfe",
+      "bytes": 15008,
+      "mirrorPath": "meshes/FJ2595_BP23004_FMA14966_Distal part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2595_BP23004_FMA14966_Distal%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2596",
+      "file": "FJ2596.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2596_BP21558_FMA14964_Proximal%20part%20of%20ileum.obj",
+      "sha256": "b5c57d9d2a80e91425875e5354ba9527962a733dba6913767408451d2162acc5",
+      "bytes": 13800,
+      "mirrorPath": "meshes/FJ2596_BP21558_FMA14964_Proximal part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2596_BP21558_FMA14964_Proximal%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2597",
+      "file": "FJ2597.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2597_BP23004_FMA14966_Distal%20part%20of%20ileum.obj",
+      "sha256": "59b946e20d6d89ddc48712aa005fb826321594fe4b0b02227ca35768185b81a1",
+      "bytes": 11387,
+      "mirrorPath": "meshes/FJ2597_BP23004_FMA14966_Distal part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2597_BP23004_FMA14966_Distal%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2598",
+      "file": "FJ2598.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2598_BP23004_FMA14966_Distal%20part%20of%20ileum.obj",
+      "sha256": "111d0e770cdfc8bdac58535b8ce55689c9e14f2d2784818643f7bd869d6d1261",
+      "bytes": 14073,
+      "mirrorPath": "meshes/FJ2598_BP23004_FMA14966_Distal part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2598_BP23004_FMA14966_Distal%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2599",
+      "file": "FJ2599.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2599_BP23004_FMA14966_Distal%20part%20of%20ileum.obj",
+      "sha256": "0a9c1759c7ec6d82593ec8180191517781fd6613084a4207eda82e58a5ff8275",
+      "bytes": 16969,
+      "mirrorPath": "meshes/FJ2599_BP23004_FMA14966_Distal part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2599_BP23004_FMA14966_Distal%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2600",
+      "file": "FJ2600.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2600_BP21558_FMA14964_Proximal%20part%20of%20ileum.obj",
+      "sha256": "7ea3bc2f95c0473711656b30754f370dc2648adb01713f8ec633567fbe011ecc",
+      "bytes": 14765,
+      "mirrorPath": "meshes/FJ2600_BP21558_FMA14964_Proximal part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2600_BP21558_FMA14964_Proximal%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2601",
+      "file": "FJ2601.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2601_BP21558_FMA14964_Proximal%20part%20of%20ileum.obj",
+      "sha256": "58f472b01fefe43958bbc5fdd3f0adab6b799a4ff4e4e703cb4b7451716d4c73",
+      "bytes": 12681,
+      "mirrorPath": "meshes/FJ2601_BP21558_FMA14964_Proximal part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2601_BP21558_FMA14964_Proximal%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2602",
+      "file": "FJ2602.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2602_BP21558_FMA14964_Proximal%20part%20of%20ileum.obj",
+      "sha256": "5d4a012758ae1762b04a3eb565092e8f76d4982718f0db2e958fb263e4ad0615",
+      "bytes": 15205,
+      "mirrorPath": "meshes/FJ2602_BP21558_FMA14964_Proximal part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2602_BP21558_FMA14964_Proximal%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2603",
+      "file": "FJ2603.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2603_BP21558_FMA14964_Proximal%20part%20of%20ileum.obj",
+      "sha256": "f457755fccfa3f979400e74d9ff5d4a060adeaf6a1eaf9303385f9acf9e85132",
+      "bytes": 16848,
+      "mirrorPath": "meshes/FJ2603_BP21558_FMA14964_Proximal part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2603_BP21558_FMA14964_Proximal%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2604",
+      "file": "FJ2604.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2604_BP21558_FMA14964_Proximal%20part%20of%20ileum.obj",
+      "sha256": "c31d9e4795f0376d3ca8421d4d864550e103be8537caa9c9d7db1ae076445cac",
+      "bytes": 11693,
+      "mirrorPath": "meshes/FJ2604_BP21558_FMA14964_Proximal part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2604_BP21558_FMA14964_Proximal%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2605",
+      "file": "FJ2605.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2605_BP21558_FMA14964_Proximal%20part%20of%20ileum.obj",
+      "sha256": "b43b6e6a1bcec8963dde479c6813fa5b964b68707a380d66ab95c2b918544bc3",
+      "bytes": 19339,
+      "mirrorPath": "meshes/FJ2605_BP21558_FMA14964_Proximal part of ileum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2605_BP21558_FMA14964_Proximal%20part%20of%20ileum.obj"
+    },
+    {
+      "id": "FJ2606",
+      "file": "FJ2606.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2606_BP23892_FMA16981_Proximal%20part%20of%20jejunum.obj",
+      "sha256": "2b2372aacf3c014c1a8c2120740867b8424e8458328673069cd3eb3c4d06b554",
+      "bytes": 20813,
+      "mirrorPath": "meshes/FJ2606_BP23892_FMA16981_Proximal part of jejunum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2606_BP23892_FMA16981_Proximal%20part%20of%20jejunum.obj"
+    },
+    {
+      "id": "FJ2607",
+      "file": "FJ2607.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2607_BP23049_FMA16982_Middle%20part%20of%20jejunum.obj",
+      "sha256": "5c07bdc43e1cc1772007a0a8e9f3d0ce042fb909f8ca6436aecb2a7c7f5df91a",
+      "bytes": 13644,
+      "mirrorPath": "meshes/FJ2607_BP23049_FMA16982_Middle part of jejunum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2607_BP23049_FMA16982_Middle%20part%20of%20jejunum.obj"
+    },
+    {
+      "id": "FJ2608",
+      "file": "FJ2608.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2608_BP23049_FMA16982_Middle%20part%20of%20jejunum.obj",
+      "sha256": "01b45af97d3383bea3e64c0bac1815f052855b7ca974a72b7b61543cb9381631",
+      "bytes": 14643,
+      "mirrorPath": "meshes/FJ2608_BP23049_FMA16982_Middle part of jejunum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2608_BP23049_FMA16982_Middle%20part%20of%20jejunum.obj"
+    },
+    {
+      "id": "FJ2609",
+      "file": "FJ2609.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2609_BP23049_FMA16982_Middle%20part%20of%20jejunum.obj",
+      "sha256": "4c9a66684b9e2da4acedbb2d98c7ed240aeaf9fd88d86354fb9acad9ca7cda66",
+      "bytes": 10517,
+      "mirrorPath": "meshes/FJ2609_BP23049_FMA16982_Middle part of jejunum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2609_BP23049_FMA16982_Middle%20part%20of%20jejunum.obj"
+    },
+    {
+      "id": "FJ2610",
+      "file": "FJ2610.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2610_BP23049_FMA16982_Middle%20part%20of%20jejunum.obj",
+      "sha256": "26a820bd7906534046cd7421a2f6d7369856a731af1e941efc024dfd46f3677c",
+      "bytes": 17024,
+      "mirrorPath": "meshes/FJ2610_BP23049_FMA16982_Middle part of jejunum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2610_BP23049_FMA16982_Middle%20part%20of%20jejunum.obj"
+    },
+    {
+      "id": "FJ2611",
+      "file": "FJ2611.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2611_BP21888_FMA16983_Distal%20part%20of%20jejunum.obj",
+      "sha256": "15949bc539dfdc9bf1fd38f7e0519c03c74b9b75bc7f6e695bf7ec351ea8979a",
+      "bytes": 13046,
+      "mirrorPath": "meshes/FJ2611_BP21888_FMA16983_Distal part of jejunum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2611_BP21888_FMA16983_Distal%20part%20of%20jejunum.obj"
+    },
+    {
+      "id": "FJ2612",
+      "file": "FJ2612.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2612_BP21888_FMA16983_Distal%20part%20of%20jejunum.obj",
+      "sha256": "922dd4d23ed89fc5492fb69b172fdd6f4cde300b967403b52451dabb32437610",
+      "bytes": 14404,
+      "mirrorPath": "meshes/FJ2612_BP21888_FMA16983_Distal part of jejunum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2612_BP21888_FMA16983_Distal%20part%20of%20jejunum.obj"
+    },
+    {
+      "id": "FJ2613",
+      "file": "FJ2613.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2613_BP21888_FMA16983_Distal%20part%20of%20jejunum.obj",
+      "sha256": "e9bf245e0c63947da66c6a78714eec707876c43769d744cbad2b0136986a6456",
+      "bytes": 9768,
+      "mirrorPath": "meshes/FJ2613_BP21888_FMA16983_Distal part of jejunum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2613_BP21888_FMA16983_Distal%20part%20of%20jejunum.obj"
+    },
+    {
+      "id": "FJ2614",
+      "file": "FJ2614.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2614_BP21888_FMA16983_Distal%20part%20of%20jejunum.obj",
+      "sha256": "69b4901dd5865bfefa09c9878821c109db319e2df265eb7399feccfc04bc0506",
+      "bytes": 13066,
+      "mirrorPath": "meshes/FJ2614_BP21888_FMA16983_Distal part of jejunum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2614_BP21888_FMA16983_Distal%20part%20of%20jejunum.obj"
+    },
+    {
+      "id": "FJ2615",
+      "file": "FJ2615.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2615_BP21888_FMA16983_Distal%20part%20of%20jejunum.obj",
+      "sha256": "e54fd310cfbeac54fead199c7d42d0e21bf7ad01f9b622bde8d5537e237619de",
+      "bytes": 15657,
+      "mirrorPath": "meshes/FJ2615_BP21888_FMA16983_Distal part of jejunum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2615_BP21888_FMA16983_Distal%20part%20of%20jejunum.obj"
+    },
+    {
+      "id": "FJ2616",
+      "file": "FJ2616.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2616_BP21888_FMA16983_Distal%20part%20of%20jejunum.obj",
+      "sha256": "64051d49f38ff0dce48f555378dd617cab5394a2e3788b2918ec4494d7ca6656",
+      "bytes": 26182,
+      "mirrorPath": "meshes/FJ2616_BP21888_FMA16983_Distal part of jejunum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2616_BP21888_FMA16983_Distal%20part%20of%20jejunum.obj"
+    },
+    {
+      "id": "FJ2617",
+      "file": "FJ2617.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2617_BP23892_FMA16981_Proximal%20part%20of%20jejunum.obj",
+      "sha256": "d14b76f6be59f07acbd7c6baeae3bda5c97da2b3ffdd8ba28ed900e0660026f3",
+      "bytes": 13925,
+      "mirrorPath": "meshes/FJ2617_BP23892_FMA16981_Proximal part of jejunum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2617_BP23892_FMA16981_Proximal%20part%20of%20jejunum.obj"
+    },
+    {
+      "id": "FJ2618",
+      "file": "FJ2618.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2618_BP21888_FMA16983_Distal%20part%20of%20jejunum.obj",
+      "sha256": "d4e50f4527ebac26058caeb725e246c3a07b9257bfe96c97731cab30cf8f1eef",
+      "bytes": 12658,
+      "mirrorPath": "meshes/FJ2618_BP21888_FMA16983_Distal part of jejunum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2618_BP21888_FMA16983_Distal%20part%20of%20jejunum.obj"
+    },
+    {
+      "id": "FJ2619",
+      "file": "FJ2619.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2619_BP21888_FMA16983_Distal%20part%20of%20jejunum.obj",
+      "sha256": "fdc132c33a055fc208f0bedcd846750e4ae6ea51ac3b7fb9564b08586d2ff43e",
+      "bytes": 15305,
+      "mirrorPath": "meshes/FJ2619_BP21888_FMA16983_Distal part of jejunum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2619_BP21888_FMA16983_Distal%20part%20of%20jejunum.obj"
+    },
+    {
+      "id": "FJ2620",
+      "file": "FJ2620.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2620_BP21888_FMA16983_Distal%20part%20of%20jejunum.obj",
+      "sha256": "2114715611081e19fc9705e10deee123295db90523afc96f343f604e3b3f4cf3",
+      "bytes": 16704,
+      "mirrorPath": "meshes/FJ2620_BP21888_FMA16983_Distal part of jejunum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2620_BP21888_FMA16983_Distal%20part%20of%20jejunum.obj"
+    },
+    {
+      "id": "FJ2621",
+      "file": "FJ2621.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2621_BP21888_FMA16983_Distal%20part%20of%20jejunum.obj",
+      "sha256": "34e64adbae1116ee1d056b94673a92912c9d0e109ecce0a9c16abbdd6e8256bc",
+      "bytes": 30507,
+      "mirrorPath": "meshes/FJ2621_BP21888_FMA16983_Distal part of jejunum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2621_BP21888_FMA16983_Distal%20part%20of%20jejunum.obj"
+    },
+    {
+      "id": "FJ2622",
+      "file": "FJ2622.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2622_BP23892_FMA16981_Proximal%20part%20of%20jejunum.obj",
+      "sha256": "72477f1944682e009d7a777a72d65047be37f41acca1294a19a24295b8230b16",
+      "bytes": 9833,
+      "mirrorPath": "meshes/FJ2622_BP23892_FMA16981_Proximal part of jejunum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2622_BP23892_FMA16981_Proximal%20part%20of%20jejunum.obj"
+    },
+    {
+      "id": "FJ2623",
+      "file": "FJ2623.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2623_BP23892_FMA16981_Proximal%20part%20of%20jejunum.obj",
+      "sha256": "11fe9e0e17d22f15ac8a0860130b8603ac2e965145452a9c012d928a75d470ac",
+      "bytes": 22596,
+      "mirrorPath": "meshes/FJ2623_BP23892_FMA16981_Proximal part of jejunum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2623_BP23892_FMA16981_Proximal%20part%20of%20jejunum.obj"
+    },
+    {
+      "id": "FJ2624",
+      "file": "FJ2624.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2624_BP23892_FMA16981_Proximal%20part%20of%20jejunum.obj",
+      "sha256": "ef749dfe6ab533d66cda0102aaebcdcda0ff2c70f2239f315c52e5e481ad2cae",
+      "bytes": 9826,
+      "mirrorPath": "meshes/FJ2624_BP23892_FMA16981_Proximal part of jejunum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2624_BP23892_FMA16981_Proximal%20part%20of%20jejunum.obj"
+    },
+    {
+      "id": "FJ2625",
+      "file": "FJ2625.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2625_BP23892_FMA16981_Proximal%20part%20of%20jejunum.obj",
+      "sha256": "9b3ad112afc3e5b0bd9a773cfbc202583c34214bcbc054e7b454b2d1f1d868fc",
+      "bytes": 8452,
+      "mirrorPath": "meshes/FJ2625_BP23892_FMA16981_Proximal part of jejunum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2625_BP23892_FMA16981_Proximal%20part%20of%20jejunum.obj"
+    },
+    {
+      "id": "FJ2626",
+      "file": "FJ2626.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2626_BP23892_FMA16981_Proximal%20part%20of%20jejunum.obj",
+      "sha256": "ae6743e0348d2e9c9797aece90fc10f54b5b925417a050f57dbb0b3f51b66b29",
+      "bytes": 19886,
+      "mirrorPath": "meshes/FJ2626_BP23892_FMA16981_Proximal part of jejunum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2626_BP23892_FMA16981_Proximal%20part%20of%20jejunum.obj"
+    },
+    {
+      "id": "FJ2627",
+      "file": "FJ2627.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2627_BP23892_FMA16981_Proximal%20part%20of%20jejunum.obj",
+      "sha256": "db316abd2922a3c22747a1e38b026879e7643ecfa5917f41658a820068f13efe",
+      "bytes": 10519,
+      "mirrorPath": "meshes/FJ2627_BP23892_FMA16981_Proximal part of jejunum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2627_BP23892_FMA16981_Proximal%20part%20of%20jejunum.obj"
+    },
+    {
+      "id": "FJ2628",
+      "file": "FJ2628.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2628_BP23049_FMA16982_Middle%20part%20of%20jejunum.obj",
+      "sha256": "2c3387559b666f0c6672cb39e81e6095130c1256fd56f390596393a4437bd9de",
+      "bytes": 13550,
+      "mirrorPath": "meshes/FJ2628_BP23049_FMA16982_Middle part of jejunum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ2628_BP23049_FMA16982_Middle%20part%20of%20jejunum.obj"
+    }
+  ]
+}

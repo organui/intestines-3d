@@ -1,0 +1,691 @@
+{
+  "dataset": "BodyParts3D / Anatomography",
+  "version": "4.3 (objects set 4.3, FMA3.0 tree)",
+  "mirror": "https://github.com/olivercase/body_parts_3d_api",
+  "mirrorCommit": "fd527e6f4daf732fd814314d9257df5877b844bc",
+  "retrieved": "2026-10-16",
+  "license": "CC-BY-SA-2.1-JP",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en",
+  "credit": "BodyParts3D / Anatomography, © The Database Center for Life Science. CC BY-SA 2.1 Japan. Adapted by OrganUI.",
+  "transform": {
+    "sourceBoundsMm": {
+      "min": [
+        -126.783,
+        -196.931,
+        757.327
+      ],
+      "max": [
+        117.482,
+        -11.2808,
+        1077.11
+      ]
+    },
+    "centerMm": [
+      -4.650500000000001,
+      -104.1059,
+      917.2185
+    ],
+    "scale": 0.012,
+    "axes": "[x, z, -y]"
+  },
+  "runtime": {
+    "file": "intestines.glb",
+    "bytes": 2366084,
+    "sha256": "55f09dc6094bee040124a03ee6d5e69f8e89e3d8ae9567d880d5561169ea1608"
+  },
+  "structures": [
+    {
+      "id": "duodenum",
+      "fma": "FMA7206",
+      "sourceName": "Duodenum",
+      "sources": [
+        {
+          "element": "FJ2573",
+          "concept": "FMA7206",
+          "sourceName": "Duodenum",
+          "sha256": "4e864f74d938eca6d74a185539429c1d4bbb80a8b2add7f3662b34e406c85440",
+          "bytes": 112313,
+          "vertices": 977,
+          "triangles": 1860
+        }
+      ]
+    },
+    {
+      "id": "jejunum",
+      "fma": "FMA7207",
+      "sourceName": "Jejunum (proximal, middle, and distal parts)",
+      "sources": [
+        {
+          "element": "FJ2606",
+          "concept": "FMA16981",
+          "sourceName": "Proximal part of jejunum",
+          "sha256": "2b2372aacf3c014c1a8c2120740867b8424e8458328673069cd3eb3c4d06b554",
+          "bytes": 20813,
+          "vertices": 207,
+          "triangles": 320
+        },
+        {
+          "element": "FJ2607",
+          "concept": "FMA16982",
+          "sourceName": "Middle part of jejunum",
+          "sha256": "5c07bdc43e1cc1772007a0a8e9f3d0ce042fb909f8ca6436aecb2a7c7f5df91a",
+          "bytes": 13644,
+          "vertices": 127,
+          "triangles": 240
+        },
+        {
+          "element": "FJ2608",
+          "concept": "FMA16982",
+          "sourceName": "Middle part of jejunum",
+          "sha256": "01b45af97d3383bea3e64c0bac1815f052855b7ca974a72b7b61543cb9381631",
+          "bytes": 14643,
+          "vertices": 133,
+          "triangles": 262
+        },
+        {
+          "element": "FJ2609",
+          "concept": "FMA16982",
+          "sourceName": "Middle part of jejunum",
+          "sha256": "4c9a66684b9e2da4acedbb2d98c7ed240aeaf9fd88d86354fb9acad9ca7cda66",
+          "bytes": 10517,
+          "vertices": 98,
+          "triangles": 192
+        },
+        {
+          "element": "FJ2610",
+          "concept": "FMA16982",
+          "sourceName": "Middle part of jejunum",
+          "sha256": "26a820bd7906534046cd7421a2f6d7369856a731af1e941efc024dfd46f3677c",
+          "bytes": 17024,
+          "vertices": 156,
+          "triangles": 296
+        },
+        {
+          "element": "FJ2611",
+          "concept": "FMA16983",
+          "sourceName": "Distal part of jejunum",
+          "sha256": "15949bc539dfdc9bf1fd38f7e0519c03c74b9b75bc7f6e695bf7ec351ea8979a",
+          "bytes": 13046,
+          "vertices": 123,
+          "triangles": 226
+        },
+        {
+          "element": "FJ2612",
+          "concept": "FMA16983",
+          "sourceName": "Distal part of jejunum",
+          "sha256": "922dd4d23ed89fc5492fb69b172fdd6f4cde300b967403b52451dabb32437610",
+          "bytes": 14404,
+          "vertices": 134,
+          "triangles": 248
+        },
+        {
+          "element": "FJ2613",
+          "concept": "FMA16983",
+          "sourceName": "Distal part of jejunum",
+          "sha256": "e9bf245e0c63947da66c6a78714eec707876c43769d744cbad2b0136986a6456",
+          "bytes": 9768,
+          "vertices": 91,
+          "triangles": 176
+        },
+        {
+          "element": "FJ2614",
+          "concept": "FMA16983",
+          "sourceName": "Distal part of jejunum",
+          "sha256": "69b4901dd5865bfefa09c9878821c109db319e2df265eb7399feccfc04bc0506",
+          "bytes": 13066,
+          "vertices": 120,
+          "triangles": 232
+        },
+        {
+          "element": "FJ2615",
+          "concept": "FMA16983",
+          "sourceName": "Distal part of jejunum",
+          "sha256": "e54fd310cfbeac54fead199c7d42d0e21bf7ad01f9b622bde8d5537e237619de",
+          "bytes": 15657,
+          "vertices": 147,
+          "triangles": 264
+        },
+        {
+          "element": "FJ2616",
+          "concept": "FMA16983",
+          "sourceName": "Distal part of jejunum",
+          "sha256": "64051d49f38ff0dce48f555378dd617cab5394a2e3788b2918ec4494d7ca6656",
+          "bytes": 26182,
+          "vertices": 233,
+          "triangles": 444
+        },
+        {
+          "element": "FJ2617",
+          "concept": "FMA16981",
+          "sourceName": "Proximal part of jejunum",
+          "sha256": "d14b76f6be59f07acbd7c6baeae3bda5c97da2b3ffdd8ba28ed900e0660026f3",
+          "bytes": 13925,
+          "vertices": 135,
+          "triangles": 234
+        },
+        {
+          "element": "FJ2618",
+          "concept": "FMA16983",
+          "sourceName": "Distal part of jejunum",
+          "sha256": "d4e50f4527ebac26058caeb725e246c3a07b9257bfe96c97731cab30cf8f1eef",
+          "bytes": 12658,
+          "vertices": 117,
+          "triangles": 222
+        },
+        {
+          "element": "FJ2619",
+          "concept": "FMA16983",
+          "sourceName": "Distal part of jejunum",
+          "sha256": "fdc132c33a055fc208f0bedcd846750e4ae6ea51ac3b7fb9564b08586d2ff43e",
+          "bytes": 15305,
+          "vertices": 142,
+          "triangles": 260
+        },
+        {
+          "element": "FJ2620",
+          "concept": "FMA16983",
+          "sourceName": "Distal part of jejunum",
+          "sha256": "2114715611081e19fc9705e10deee123295db90523afc96f343f604e3b3f4cf3",
+          "bytes": 16704,
+          "vertices": 154,
+          "triangles": 284
+        },
+        {
+          "element": "FJ2621",
+          "concept": "FMA16983",
+          "sourceName": "Distal part of jejunum",
+          "sha256": "34e64adbae1116ee1d056b94673a92912c9d0e109ecce0a9c16abbdd6e8256bc",
+          "bytes": 30507,
+          "vertices": 278,
+          "triangles": 500
+        },
+        {
+          "element": "FJ2622",
+          "concept": "FMA16981",
+          "sourceName": "Proximal part of jejunum",
+          "sha256": "72477f1944682e009d7a777a72d65047be37f41acca1294a19a24295b8230b16",
+          "bytes": 9833,
+          "vertices": 99,
+          "triangles": 160
+        },
+        {
+          "element": "FJ2623",
+          "concept": "FMA16981",
+          "sourceName": "Proximal part of jejunum",
+          "sha256": "11fe9e0e17d22f15ac8a0860130b8603ac2e965145452a9c012d928a75d470ac",
+          "bytes": 22596,
+          "vertices": 206,
+          "triangles": 386
+        },
+        {
+          "element": "FJ2624",
+          "concept": "FMA16981",
+          "sourceName": "Proximal part of jejunum",
+          "sha256": "ef749dfe6ab533d66cda0102aaebcdcda0ff2c70f2239f315c52e5e481ad2cae",
+          "bytes": 9826,
+          "vertices": 94,
+          "triangles": 172
+        },
+        {
+          "element": "FJ2625",
+          "concept": "FMA16981",
+          "sourceName": "Proximal part of jejunum",
+          "sha256": "9b3ad112afc3e5b0bd9a773cfbc202583c34214bcbc054e7b454b2d1f1d868fc",
+          "bytes": 8452,
+          "vertices": 79,
+          "triangles": 152
+        },
+        {
+          "element": "FJ2626",
+          "concept": "FMA16981",
+          "sourceName": "Proximal part of jejunum",
+          "sha256": "ae6743e0348d2e9c9797aece90fc10f54b5b925417a050f57dbb0b3f51b66b29",
+          "bytes": 19886,
+          "vertices": 188,
+          "triangles": 330
+        },
+        {
+          "element": "FJ2627",
+          "concept": "FMA16981",
+          "sourceName": "Proximal part of jejunum",
+          "sha256": "db316abd2922a3c22747a1e38b026879e7643ecfa5917f41658a820068f13efe",
+          "bytes": 10519,
+          "vertices": 99,
+          "triangles": 190
+        },
+        {
+          "element": "FJ2628",
+          "concept": "FMA16982",
+          "sourceName": "Middle part of jejunum",
+          "sha256": "2c3387559b666f0c6672cb39e81e6095130c1256fd56f390596393a4437bd9de",
+          "bytes": 13550,
+          "vertices": 128,
+          "triangles": 236
+        }
+      ]
+    },
+    {
+      "id": "ileum",
+      "fma": "FMA7208",
+      "sourceName": "Ileum (proximal, middle, and distal parts)",
+      "sources": [
+        {
+          "element": "FJ2574",
+          "concept": "FMA14964",
+          "sourceName": "Proximal part of ileum",
+          "sha256": "bd0866f49702a9701248bb239f548b0f57c8e0756dc801c76c12cee0ce992165",
+          "bytes": 22149,
+          "vertices": 197,
+          "triangles": 380
+        },
+        {
+          "element": "FJ2575",
+          "concept": "FMA14964",
+          "sourceName": "Proximal part of ileum",
+          "sha256": "0b8f9d20cb8db1361f3ca18ac2fda58e14f933dab61ac6218d48f2ecf18aeec3",
+          "bytes": 15734,
+          "vertices": 144,
+          "triangles": 276
+        },
+        {
+          "element": "FJ2576",
+          "concept": "FMA14965",
+          "sourceName": "Middle part of ileum",
+          "sha256": "2ce78308407ac9793d1f0a681711d3ff1802253ab60867beb39eb3a480875b5b",
+          "bytes": 9791,
+          "vertices": 94,
+          "triangles": 172
+        },
+        {
+          "element": "FJ2577",
+          "concept": "FMA14965",
+          "sourceName": "Middle part of ileum",
+          "sha256": "c236c4293685fa579d3600ecdf54888443d74c00618567123469a9f741166e8f",
+          "bytes": 18646,
+          "vertices": 174,
+          "triangles": 314
+        },
+        {
+          "element": "FJ2578",
+          "concept": "FMA14965",
+          "sourceName": "Middle part of ileum",
+          "sha256": "2edf3b911e1f315b7d9deb645c1a0db606de3a4db78aafca1d6eaac68b6c5263",
+          "bytes": 17272,
+          "vertices": 161,
+          "triangles": 292
+        },
+        {
+          "element": "FJ2579",
+          "concept": "FMA14965",
+          "sourceName": "Middle part of ileum",
+          "sha256": "588739bd8f3719586d0f4c9b36031af990cf260441bd1c1ca045d6fd20cfc4de",
+          "bytes": 16287,
+          "vertices": 150,
+          "triangles": 280
+        },
+        {
+          "element": "FJ2580",
+          "concept": "FMA14965",
+          "sourceName": "Middle part of ileum",
+          "sha256": "aecae1f3ef51f5dcd867eb3cb8650bf09d48bf07d020fe10715ffecb1c80c75c",
+          "bytes": 19774,
+          "vertices": 176,
+          "triangles": 344
+        },
+        {
+          "element": "FJ2581",
+          "concept": "FMA14965",
+          "sourceName": "Middle part of ileum",
+          "sha256": "01810189074546a871fbe937eece5801d443cc5b07355a6cfd265354ff1d2435",
+          "bytes": 12055,
+          "vertices": 118,
+          "triangles": 198
+        },
+        {
+          "element": "FJ2582",
+          "concept": "FMA14965",
+          "sourceName": "Middle part of ileum",
+          "sha256": "5c813771f64e9f867d715b124f7ef145e79ff70ce6df22d678401d5f681edb16",
+          "bytes": 12156,
+          "vertices": 114,
+          "triangles": 212
+        },
+        {
+          "element": "FJ2583",
+          "concept": "FMA14965",
+          "sourceName": "Middle part of ileum",
+          "sha256": "9823b269382c1fb1d3cce568ca83e4e1a9e734219cc7673ad5226c2b214cd33a",
+          "bytes": 11013,
+          "vertices": 102,
+          "triangles": 198
+        },
+        {
+          "element": "FJ2584",
+          "concept": "FMA14965",
+          "sourceName": "Middle part of ileum",
+          "sha256": "15b0d0f7cad4d9f15ec3c9983e3f053f27706bc91614f5804e3c2c671819d358",
+          "bytes": 12745,
+          "vertices": 116,
+          "triangles": 228
+        },
+        {
+          "element": "FJ2585",
+          "concept": "FMA14964",
+          "sourceName": "Proximal part of ileum",
+          "sha256": "4c6d5bbc1696335b3d9370b526ecf45d9ae7913d9cfdbf56eda5431c020033d1",
+          "bytes": 17082,
+          "vertices": 158,
+          "triangles": 288
+        },
+        {
+          "element": "FJ2586",
+          "concept": "FMA14965",
+          "sourceName": "Middle part of ileum",
+          "sha256": "876fb01167eb6603452d7235d9ed79e7f78c6a374f7ddd190188e3dce2be2603",
+          "bytes": 15370,
+          "vertices": 143,
+          "triangles": 264
+        },
+        {
+          "element": "FJ2587",
+          "concept": "FMA14966",
+          "sourceName": "Distal part of ileum",
+          "sha256": "b206d71913e488fb807c6e038f8ec2fd2d15119a8a1a7268b0e3471b66ba2802",
+          "bytes": 12701,
+          "vertices": 117,
+          "triangles": 228
+        },
+        {
+          "element": "FJ2588",
+          "concept": "FMA14966",
+          "sourceName": "Distal part of ileum",
+          "sha256": "96a4017bfdcb97dcbee9c3bd894ad41d2f7fcf3ad02a9fb46edf7c42e907e0c4",
+          "bytes": 15324,
+          "vertices": 142,
+          "triangles": 266
+        },
+        {
+          "element": "FJ2589",
+          "concept": "FMA14966",
+          "sourceName": "Distal part of ileum",
+          "sha256": "81e62be6a3e5ae267d61f06e840d9c12a69cfeea707b76e353114d28ee28b663",
+          "bytes": 18602,
+          "vertices": 168,
+          "triangles": 326
+        },
+        {
+          "element": "FJ2590",
+          "concept": "FMA14966",
+          "sourceName": "Distal part of ileum",
+          "sha256": "7442195288c12d56c4ad52b032be2c89a439f43c5914b7365b95e8fd2099635a",
+          "bytes": 10287,
+          "vertices": 97,
+          "triangles": 184
+        },
+        {
+          "element": "FJ2591",
+          "concept": "FMA14966",
+          "sourceName": "Distal part of ileum",
+          "sha256": "f3826032301d2cb0d8fc57b02d7ad445d0e4ab798313b85b3688d50a767a1d5f",
+          "bytes": 12797,
+          "vertices": 118,
+          "triangles": 226
+        },
+        {
+          "element": "FJ2592",
+          "concept": "FMA14966",
+          "sourceName": "Distal part of ileum",
+          "sha256": "bf9717fbc26bd87e1017f9f854a09751fdcd137c54a695ea2088e23e600a1b1d",
+          "bytes": 13786,
+          "vertices": 129,
+          "triangles": 236
+        },
+        {
+          "element": "FJ2593",
+          "concept": "FMA14966",
+          "sourceName": "Distal part of ileum",
+          "sha256": "53c1cf29192a3d552550519b616982aab9e4c8c34e5fb64f5e98b60d2b210cac",
+          "bytes": 14802,
+          "vertices": 134,
+          "triangles": 262
+        },
+        {
+          "element": "FJ2594",
+          "concept": "FMA14966",
+          "sourceName": "Distal part of ileum",
+          "sha256": "f6dd6d4909eb4a14c62c6312bf5a363842aa574c3c65e52526f5f43607347dd1",
+          "bytes": 12328,
+          "vertices": 113,
+          "triangles": 220
+        },
+        {
+          "element": "FJ2595",
+          "concept": "FMA14966",
+          "sourceName": "Distal part of ileum",
+          "sha256": "939bc15f7c7f0cba4fea081bd23568aaa3b8ceafeca5249e440b1ec0c041bbfe",
+          "bytes": 15008,
+          "vertices": 139,
+          "triangles": 258
+        },
+        {
+          "element": "FJ2596",
+          "concept": "FMA14964",
+          "sourceName": "Proximal part of ileum",
+          "sha256": "b5c57d9d2a80e91425875e5354ba9527962a733dba6913767408451d2162acc5",
+          "bytes": 13800,
+          "vertices": 135,
+          "triangles": 226
+        },
+        {
+          "element": "FJ2597",
+          "concept": "FMA14966",
+          "sourceName": "Distal part of ileum",
+          "sha256": "59b946e20d6d89ddc48712aa005fb826321594fe4b0b02227ca35768185b81a1",
+          "bytes": 11387,
+          "vertices": 106,
+          "triangles": 202
+        },
+        {
+          "element": "FJ2598",
+          "concept": "FMA14966",
+          "sourceName": "Distal part of ileum",
+          "sha256": "111d0e770cdfc8bdac58535b8ce55689c9e14f2d2784818643f7bd869d6d1261",
+          "bytes": 14073,
+          "vertices": 129,
+          "triangles": 246
+        },
+        {
+          "element": "FJ2599",
+          "concept": "FMA14966",
+          "sourceName": "Distal part of ileum",
+          "sha256": "0a9c1759c7ec6d82593ec8180191517781fd6613084a4207eda82e58a5ff8275",
+          "bytes": 16969,
+          "vertices": 156,
+          "triangles": 288
+        },
+        {
+          "element": "FJ2600",
+          "concept": "FMA14964",
+          "sourceName": "Proximal part of ileum",
+          "sha256": "7ea3bc2f95c0473711656b30754f370dc2648adb01713f8ec633567fbe011ecc",
+          "bytes": 14765,
+          "vertices": 136,
+          "triangles": 256
+        },
+        {
+          "element": "FJ2601",
+          "concept": "FMA14964",
+          "sourceName": "Proximal part of ileum",
+          "sha256": "58f472b01fefe43958bbc5fdd3f0adab6b799a4ff4e4e703cb4b7451716d4c73",
+          "bytes": 12681,
+          "vertices": 125,
+          "triangles": 208
+        },
+        {
+          "element": "FJ2602",
+          "concept": "FMA14964",
+          "sourceName": "Proximal part of ileum",
+          "sha256": "5d4a012758ae1762b04a3eb565092e8f76d4982718f0db2e958fb263e4ad0615",
+          "bytes": 15205,
+          "vertices": 139,
+          "triangles": 270
+        },
+        {
+          "element": "FJ2603",
+          "concept": "FMA14964",
+          "sourceName": "Proximal part of ileum",
+          "sha256": "f457755fccfa3f979400e74d9ff5d4a060adeaf6a1eaf9303385f9acf9e85132",
+          "bytes": 16848,
+          "vertices": 154,
+          "triangles": 294
+        },
+        {
+          "element": "FJ2604",
+          "concept": "FMA14964",
+          "sourceName": "Proximal part of ileum",
+          "sha256": "c31d9e4795f0376d3ca8421d4d864550e103be8537caa9c9d7db1ae076445cac",
+          "bytes": 11693,
+          "vertices": 114,
+          "triangles": 198
+        },
+        {
+          "element": "FJ2605",
+          "concept": "FMA14964",
+          "sourceName": "Proximal part of ileum",
+          "sha256": "b43b6e6a1bcec8963dde479c6813fa5b964b68707a380d66ab95c2b918544bc3",
+          "bytes": 19339,
+          "vertices": 177,
+          "triangles": 332
+        }
+      ]
+    },
+    {
+      "id": "appendix",
+      "fma": "FMA14542",
+      "sourceName": "Appendix",
+      "sources": [
+        {
+          "element": "FJ2565",
+          "concept": "FMA14542",
+          "sourceName": "Appendix",
+          "sha256": "6b08aeecda3239f4224f92b8ceba642625f6463dc5a482fd886cacbb1fbfce18",
+          "bytes": 26743,
+          "vertices": 244,
+          "triangles": 442
+        }
+      ]
+    },
+    {
+      "id": "ascending-colon",
+      "fma": "FMA14545",
+      "sourceName": "Ascending colon",
+      "sources": [
+        {
+          "element": "FJ2566",
+          "concept": "FMA14545",
+          "sourceName": "Ascending colon",
+          "sha256": "0724a484ff53f644d5c0104edcf23823ac723fd9d03ef7cea08678ff7e53c605",
+          "bytes": 214014,
+          "vertices": 1812,
+          "triangles": 3310
+        }
+      ]
+    },
+    {
+      "id": "transverse-colon",
+      "fma": "FMA14546",
+      "sourceName": "Transverse colon",
+      "sources": [
+        {
+          "element": "FJ2572",
+          "concept": "FMA14546",
+          "sourceName": "Transverse colon",
+          "sha256": "20d64fe3057546ef1ab86149455b93cae3740424798962ae99fc44211a604922",
+          "bytes": 225187,
+          "vertices": 1923,
+          "triangles": 3472
+        }
+      ]
+    },
+    {
+      "id": "descending-colon",
+      "fma": "FMA14547",
+      "sourceName": "Descending colon",
+      "sources": [
+        {
+          "element": "FJ2567",
+          "concept": "FMA14547",
+          "sourceName": "Descending colon",
+          "sha256": "c0fc65886d1e215e2b123c27d42fca1f49ef31605368bc38edde5d499169ce53",
+          "bytes": 365225,
+          "vertices": 3039,
+          "triangles": 5588
+        }
+      ]
+    },
+    {
+      "id": "rectum",
+      "fma": "FMA14544",
+      "sourceName": "Rectum",
+      "sources": [
+        {
+          "element": "FJ2571",
+          "concept": "FMA14544",
+          "sourceName": "Rectum",
+          "sha256": "a2b702d4603176010fc1a6201b9f1910ca7d68ec8db76e33bcbc9c55edb5782b",
+          "bytes": 129351,
+          "vertices": 1121,
+          "triangles": 2118
+        }
+      ]
+    },
+    {
+      "id": "mesocolic-taenia",
+      "fma": "FMA15042",
+      "sourceName": "Taenia mesocolica",
+      "sources": [
+        {
+          "element": "FJ2569",
+          "concept": "FMA15042",
+          "sourceName": "Taenia mesocolica",
+          "sha256": "e341c4919119e44207b19b54042c837d777964304e883bf3c838c9d30a061846",
+          "bytes": 1385745,
+          "vertices": 15282,
+          "triangles": 13342
+        }
+      ]
+    },
+    {
+      "id": "omental-taenia",
+      "fma": "FMA15043",
+      "sourceName": "Taenia omentalis",
+      "sources": [
+        {
+          "element": "FJ2570",
+          "concept": "FMA15043",
+          "sourceName": "Taenia omentalis",
+          "sha256": "e42a87ee02df981afde965a1f2a381713b2fb45a12873ff9423fc1c59e575cbe",
+          "bytes": 1319260,
+          "vertices": 12767,
+          "triangles": 15922
+        }
+      ]
+    },
+    {
+      "id": "free-taenia",
+      "fma": "FMA15044",
+      "sourceName": "Taenia libera",
+      "sources": [
+        {
+          "element": "FJ2568",
+          "concept": "FMA15044",
+          "sourceName": "Taenia libera",
+          "sha256": "f4bba073a86a0627e94c441500f0cf4d17ecde1b0fefb54c66fa29864a06706b",
+          "bytes": 1480351,
+          "vertices": 15598,
+          "triangles": 15244
+        }
+      ]
+    }
+  ]
+}
